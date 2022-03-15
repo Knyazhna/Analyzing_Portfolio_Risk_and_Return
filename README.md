@@ -1,8 +1,6 @@
-# Module_4_Challenge
----
 # Analyzing Portfolio Risk and Return
 
-In Module 4 Challange we are tasked with evaluating four new investment options for inclusion in the client portfolios. Legendary fund and hedge-fund managers run all four selections. We will need to determine the fund with the most investment potential based on key risk-management metrics: **The Daily Returns, Standard Deviations, Sharpe Ratios, and Betas.**
+In Module 4 Challange we are tasked with evaluating four new investment options for inclusion in the client portfolios. Legendary fund and hedge-fund managers run all four selections. We will need to determine the fund with the most investment potential based on key risk-management metrics: **The [Daily Returns](https://www.investopedia.com/ask/answers/062215/how-do-i-calculate-my-portfolios-investment-returns-and-performance.asp "Daily Returns"), [Standard Deviations](https://www.investopedia.com/terms/s/standarddeviation.asp "Standard Deviation"), [Sharpe Ratios](https://www.investopedia.com/terms/s/sharperatio.asp "Sharpe Ratios"), and [Betas](https://www.investopedia.com/terms/b/beta.asp "Betas").**
 
 ---
 
