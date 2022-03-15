@@ -75,12 +75,7 @@ To determine the overall risk of an asset or portfolio, quantitative analysts an
 sharpe_ratios = average_annual_return/annualized_standard_deviation
 sharpe_ratios.sort_values()
 ```
-PAULSON & CO.INC.             -0.189998
-SOROS FUND MANAGEMENT LLC     -0.102290
-TIGER GLOBAL MANAGEMENT LLC    0.579002
-S&P 500                        0.589612
-BERKSHIRE HATHAWAY INC         0.717512
-dtype: float64
+
 
 **5.Diversify the Portfolio**
 <br>
